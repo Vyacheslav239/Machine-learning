@@ -1,1 +1,1 @@
-# Machine-learning
+Код с соревнований на Kaggle.
